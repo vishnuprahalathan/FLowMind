@@ -1,0 +1,11 @@
+node_modules/
+venv/
+.env
+.DS_Store
+dist/
+build/
+*.log
+__pycache__/
+.vscode/
+.idea/
+.gemini/
